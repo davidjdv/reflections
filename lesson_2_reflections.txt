@@ -4,4 +4,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-    staging contains that files that will be committed - it allows to "group" files logically
+    Staging contains files that will be committed - it allows to "group" files logically
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    You only add the files that are relevant to the commit you want to make
